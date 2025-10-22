@@ -1,0 +1,26 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
